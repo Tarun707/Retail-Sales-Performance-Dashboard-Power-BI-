@@ -31,7 +31,7 @@ The dataset includes:
 
 * Orders and sales transactions
 * Product details (Category, Sub-category, Product Name)
-* Customer information
+* Customer information (Customer Id, Customer Name, Customer Segment)
 * Geographic data (City, State, Region, Country)
 * Time-based data (Order Date, Ship Date)
 
