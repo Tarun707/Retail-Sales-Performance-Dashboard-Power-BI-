@@ -128,9 +128,7 @@ Analyzes sales distribution across customer segments.
 
 ## 📸 Screenshots / Demo
 
-*(Add dashboard screenshots here once available)*
-
----
+https://github.com/Tarun707/Retail-Sales-Performance-Dashboard-Power-BI-/blob/main/Retail%20Sales%20PowerBi%20Dashboard.png
 
 ## 🚀 Future Improvements
 
