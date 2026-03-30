@@ -45,7 +45,6 @@ Retail businesses generate large volumes of transactional data, but without prop
 
 * Track sales and profitability trends
 * Identify high-performing products and regions
-* Understand customer segments
 * Make strategic decisions based on data
 
 ---
@@ -86,18 +85,42 @@ Breaks down sales and profit by region and state.
 
 Shows trends in sales over time (monthly/yearly patterns).
 
-#### 🔸 Customer Segmentation
-
-Analyzes sales distribution across customer segments.
-
 ---
 
 ### 📈 Business Impact & Insights
 
-* **Performance Tracking**: Identify which products and regions drive the most revenue
-* **Profitability Analysis**: Detect low-margin or loss-making categories
-* **Customer Insights**: Understand purchasing patterns across segments
-* **Strategic Decisions**: Support pricing, marketing, and expansion strategies
+## 📈 Business Impact
+
+- Identified **West region as top-performing**, with highest:
+  - **Sales:** 725.46k  
+  - **Profit:** 108.42k  
+  - **Profit Margin:** 14.94%  
+  → Establishes West as the primary revenue driver  
+
+- Detected **category-level profitability imbalance**:
+  - **Furniture:** 2.49% margin (lowest)  
+  - **Technology:** 17.40% margin (highest)  
+  → Indicates need for category-level pricing and cost optimization  
+
+- Flagged **loss-making sub-categories despite high sales**:
+  - **Tables:** Sales (206.97k) → Loss (17.73k)  
+  - **Bookcases:** Sales (114.88k) → Loss (3.48k)  
+  - **Office Supplies:** Sales (46.67k) → Loss (1.18k)  
+  → Suggests pricing/discount inefficiencies  
+
+- Identified **high-profit sub-categories**:
+  - **Phones:** Profit (44.52k)  
+  - **Copiers:** Profit (55.62k)  
+  → Strong candidates for revenue prioritization  
+
+- Highlighted **Central region underperformance**:
+  - **Profit Margin:** 7.92% (lowest)  
+  - **Total Profit:** 39.71k  
+  → Indicates operational inefficiencies despite strong sales  
+
+- Detected **7 loss-making segments in Central region**  
+  (3 Furniture, 3 Office Supplies, 1 Technology)  
+  → Points to region-specific issues in pricing, logistics, or discounting  
 
 ---
 
